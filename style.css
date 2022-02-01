@@ -1,0 +1,46 @@
+*{
+  padding: 0;
+  margin: 0;
+  background-color: black;
+}
+
+main{
+  padding: 40px;
+}
+
+.btn{
+  padding: 10px;
+  color: white;
+  font-size: 5rem;
+  margin-left: 10px;
+}
+.btn:hover{
+  cursor: pointer;
+}
+.acessar{
+  border: 9px solid #12dd00;
+}
+.acessar:hover{
+  background-color: #12dd00;
+}
+
+.novo{
+  border: 9px solid #001dc4;
+}
+.novo:hover{
+  background-color: #001dc4;
+}
+
+.alerta{
+  border: 9px solid #ffef13;
+}
+.alerta:hover{
+  background-color: #ffef13;
+}
+
+.sair{
+  border: 9px solid red;
+}
+.sair:hover{
+  background-color: red;
+}
